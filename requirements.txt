@@ -7,6 +7,5 @@ pycurl
 python-magic
 redis
 six
-thumbor
 tornado
 wsgiref
